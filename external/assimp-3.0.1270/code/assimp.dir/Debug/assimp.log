@@ -1,0 +1,276 @@
+﻿  Building Custom Rule E:/Project/Project/external/assimp-3.0.1270/code/CMakeLists.txt
+  CMake does not need to re-run because E:/Project/Project/external/assimp-3.0.1270/code/CMakeFiles/generate.stamp is up-to-date.
+  Assimp.cpp
+  AssimpPCH.cpp
+  BaseImporter.cpp
+  BaseProcess.cpp
+  PostStepRegistry.cpp
+  ImporterRegistry.cpp
+  DefaultIOStream.cpp
+  DefaultIOSystem.cpp
+  Importer.cpp
+  SGSpatialSort.cpp
+  VertexTriangleAdjacency.cpp
+  SpatialSort.cpp
+  SceneCombiner.cpp
+  ScenePreprocessor.cpp
+  SkeletonMeshBuilder.cpp
+  SplitByBoneCountProcess.cpp
+  StandardShapes.cpp
+  TargetAnimation.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\SkeletonMeshBuilder.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\SkeletonMeshBuilder.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\SkeletonMeshBuilder.cpp(212): note: see reference to function template instantiation '_OutIt std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiVector3D*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiVector3D *,
+              _Ty=aiVector3D,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiVector3D>>>
+          ]
+  RemoveComments.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\SplitByBoneCountProcess.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\SplitByBoneCountProcess.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\SplitByBoneCountProcess.cpp(140): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiMesh**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiMesh **,
+              _Ty=aiMesh *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiMesh *>>>
+          ]
+  Subdivision.cpp
+  DefaultLogger.cpp
+  Exporter.cpp
+  AssimpCExport.cpp
+  CalcTangentsProcess.cpp
+  ComputeUVMappingProcess.cpp
+  ConvertToLHProcess.cpp
+  FindDegenerates.cpp
+  FindInstancesProcess.cpp
+  FindInvalidDataProcess.cpp
+  FixNormalsStep.cpp
+  GenFaceNormalsProcess.cpp
+  GenVertexNormalsProcess.cpp
+  PretransformVertices.cpp
+  ImproveCacheLocality.cpp
+  JoinVerticesProcess.cpp
+  LimitBoneWeightsProcess.cpp
+  RemoveRedundantMaterials.cpp
+  RemoveVCProcess.cpp
+  SortByPTypeProcess.cpp
+  SplitLargeMeshes.cpp
+  TerragenLoader.cpp
+  TextureTransform.cpp
+  TriangulateProcess.cpp
+  ValidateDataStructure.cpp
+  OptimizeGraph.cpp
+  OptimizeMeshes.cpp
+  DeboneProcess.cpp
+  ProcessHelper.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\OptimizeMeshes.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\OptimizeMeshes.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\OptimizeMeshes.cpp(139): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiMesh**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiMesh **,
+              _Ty=aiMesh *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiMesh *>>>
+          ]
+  MakeVerboseFormat.cpp
+  3DSConverter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\DeboneProcess.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\DeboneProcess.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\DeboneProcess.cpp(167): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiMesh**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiMesh **,
+              _Ty=aiMesh *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiMesh *>>>
+          ]
+  3DSLoader.cpp
+  ACLoader.cpp
+  ASELoader.cpp
+  ASEParser.cpp
+  B3DImporter.cpp
+  BVHLoader.cpp
+  ColladaLoader.cpp
+  ColladaParser.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\BVHLoader.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\BVHLoader.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\BVHLoader.cpp(224): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiNode**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiNode **,
+              _Ty=aiNode *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiNode *>>>
+          ]
+  ColladaExporter.cpp
+  DXFLoader.cpp
+  CSMLoader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\ColladaLoader.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\ColladaLoader.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\ColladaLoader.cpp(516): note: see reference to function template instantiation '_OutIt *std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,unsigned int*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=unsigned int *,
+              _Ty=::size_t,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<size_t>>>
+          ]
+  HMPLoader.cpp
+  IRRLoader.cpp
+  IRRMeshLoader.cpp
+  IRRShared.cpp
+  LWOAnimation.cpp
+  LWOBLoader.cpp
+  LWOLoader.cpp
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(159): error C2039: 'bind1st': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\memory(1980): note: see declaration of 'std'
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(159): error C2039: 'greater': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\memory(1980): note: see declaration of 'std'
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(159): error C2065: 'greater': undeclared identifier
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(159): error C2062: type 'double' unexpected
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(177): error C2065: 'm': undeclared identifier
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(178): error C2065: 'm': undeclared identifier
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(181): error C2065: 'm': undeclared identifier
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(189): error C2065: 'm': undeclared identifier
+E:\Project\Project\external\assimp-3.0.1270\code\LWOAnimation.cpp(190): error C2065: 'm': undeclared identifier
+  LWOMaterial.cpp
+  LWSLoader.cpp
+  M3Importer.cpp
+  MD2Loader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\LWSLoader.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\LWSLoader.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\LWSLoader.cpp(891): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiNodeAnim**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiNodeAnim **,
+              _Ty=aiNodeAnim *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiNodeAnim *>>>
+          ]
+  MD3Loader.cpp
+  MD5Loader.cpp
+  MD5Parser.cpp
+  MDCLoader.cpp
+  MDLLoader.cpp
+  MDLMaterialLoader.cpp
+  MaterialSystem.cpp
+  NFFLoader.cpp
+  OFFLoader.cpp
+  ObjFileImporter.cpp
+  ObjFileMtlImporter.cpp
+  ObjFileParser.cpp
+  ObjExporter.cpp
+  OgreImporter.cpp
+  OgreMaterial.cpp
+  OgreMesh.cpp
+  OgreSkeleton.cpp
+  PlyLoader.cpp
+  PlyParser.cpp
+  PlyExporter.cpp
+  Q3DLoader.cpp
+  Q3BSPFileParser.cpp
+  Q3BSPFileImporter.cpp
+  Q3BSPZipArchive.cpp
+  RawLoader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\Q3BSPFileImporter.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\Q3BSPFileImporter.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\Q3BSPFileImporter.cpp(527): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiTexture**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiTexture **,
+              _Ty=aiTexture *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiTexture *>>>
+          ]
+  SMDLoader.cpp
+  STLLoader.cpp
+  STLExporter.cpp
+  UnrealLoader.cpp
+  XFileImporter.cpp
+  XFileParser.cpp
+  MS3DLoader.cpp
+  COBLoader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\XFileImporter.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\XFileImporter.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\XFileImporter.cpp(403): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiBone**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiBone **,
+              _Ty=aiBone *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiBone *>>>
+          ]
+  BlenderLoader.cpp
+  BlenderDNA.cpp
+  BlenderScene.cpp
+  BlenderModifier.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\BlenderLoader.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\BlenderLoader.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\BlenderLoader.cpp(371): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiMesh**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiMesh **,
+              _Ty=aiMesh *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiMesh *>>>
+          ]
+  NDOLoader.cpp
+  IFCLoader.cpp
+  IFCReaderGen.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\BlenderModifier.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\BlenderModifier.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\BlenderModifier.cpp(255): note: see reference to function template instantiation '_OutIt *std::copy<unsigned int*,unsigned int*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=unsigned int *,
+              _InIt=unsigned int *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\algorithm(923): warning C4996: 'std::transform::_Unchecked_iterators::_Deprecate': Call to 'std::transform' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\BlenderModifier.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\algorithm(923): note: see declaration of 'std::transform::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\BlenderModifier.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\BlenderModifier.cpp(257): note: see reference to function template instantiation '_OutIt *std::transform<unsigned int*,unsigned int*,std::binder1st<std::plus<unsigned int>>>(_InIt,_InIt,_OutIt,_Fn)' being compiled
+          with
+          [
+              _OutIt=unsigned int *,
+              _InIt=unsigned int *,
+              _Fn=std::binder1st<std::plus<unsigned int>>
+          ]
+  IFCUtil.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\NDOLoader.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\NDOLoader.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\NDOLoader.cpp(288): note: see reference to function template instantiation '_OutIt *std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,unsigned int*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=unsigned int *,
+              _Ty=unsigned int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<unsigned int>>>
+          ]
+  IFCGeometry.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\IFCLoader.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\IFCLoader.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\IFCLoader.cpp(228): note: see reference to function template instantiation '_OutIt **std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiMesh**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiMesh **,
+              _Ty=aiMesh *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<aiMesh *>>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\IFCUtil.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\IFCUtil.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\IFCUtil.cpp(77): note: see reference to function template instantiation '_OutIt std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,aiVector3D*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=aiVector3D *,
+              _Ty=Assimp::IFC::IfcVector3,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Assimp::IFC::IfcVector3>>>
+          ]
+  IFCMaterial.cpp
+  IFCProfile.cpp
+  IFCCurve.cpp
+  STEPFileReader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\STEPFileReader.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\xutility(2294): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate' (compiling source file E:\Project\Project\external\assimp-3.0.1270\code\STEPFileReader.cpp)
+  E:\Project\Project\external\assimp-3.0.1270\code\STEPFileReader.cpp(237): note: see reference to function template instantiation '_OutIt *std::copy<const _Elem*,char*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Elem=char,
+              _InIt=const char *
+          ]
+  XGLLoader.cpp
+  irrXML.cpp
